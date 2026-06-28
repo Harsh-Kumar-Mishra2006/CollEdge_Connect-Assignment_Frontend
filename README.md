@@ -78,7 +78,7 @@ frontend/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Harsh-Kumar-Mishra2006/CollEdge_Connect-Assignment_Frontend>
 ```
 
 Move into frontend
@@ -112,7 +112,7 @@ http://localhost:5173
 Create a `.env` file in the project root.
 
 ```env
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=https://colledge-connect-assignment-backend.onrender.com/api
 ```
 
 ---
@@ -393,30 +393,12 @@ Optimized for
 
 ---
 
-# 📦 Available Scripts
+# 📦 Available Script
 
 Start Development
 
 ```bash
 npm run dev
-```
-
-Build Production
-
-```bash
-npm run build
-```
-
-Preview Production Build
-
-```bash
-npm run preview
-```
-
-Lint
-
-```bash
-npm run lint
 ```
 
 ---
@@ -444,7 +426,7 @@ This frontend requires the Task Manager Backend API.
 Default Backend URL
 
 ```
-http://localhost:5000/api
+https://colledge-connect-assignment-backend.onrender.com/api
 ```
 
 Ensure the backend server is running before starting the frontend.
